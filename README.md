@@ -1,9 +1,5 @@
-# React TypeScript Starter Pack
+[Game 2048](https://NadieinOleh.github.io/2048-Game)
 
-To use this template click `Use this template`
+Game 2048 creating with technology like HTML, SCSS, and JavaScript
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+clone link to your folder and using npm i in the terminal to install locally npm start to start in local server

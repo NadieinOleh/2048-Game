@@ -1,27 +1,16 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # IDE
 .idea
 .vscode
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
+# Node
+node_modules
 
-# testing
-/coverage
-
-# production
-/build
-
-# misc
+# MacOS
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Generated files
+dist
+.cache
+raw_reports
+cypress/screenshots
+cypress/videos
